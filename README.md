@@ -41,5 +41,5 @@ from discord.ext import commands
 
 client = commands.Bot(...)
 ```
-- All you need is import `discord_ios` before any discord.py related librarys.
+- All you need is import `mobile_status` before any discord.py related librarys.
 - After Import Mobile_Status All Done Start Your bot!!
